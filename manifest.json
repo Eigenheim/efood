@@ -1,0 +1,7 @@
+{
+  "name": "efood-hck-frontend",
+  "short_name": "efood-hck-frontend",
+  "description": "Frontend for Hackathon Project",
+  "start_url": "/",
+  "display": "standalone"
+}
